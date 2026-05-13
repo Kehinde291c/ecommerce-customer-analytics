@@ -29,7 +29,7 @@ This analysis enables:
 3. **Resource Optimization**: Focus retention efforts on high-value customers
 4. **Revenue Protection**: Prevent churn-related revenue loss
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ecommerce-customer-analytics/
@@ -62,7 +62,7 @@ ecommerce-customer-analytics/
 └── .gitignore                         # Git ignore file
 ```
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - **Python 3.8+**: Core programming language
 - **Pandas**: Data manipulation and analysis
@@ -71,7 +71,7 @@ ecommerce-customer-analytics/
 - **Matplotlib & Seaborn**: Data visualization
 - **Jupyter Notebook**: Interactive analysis environment
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -109,7 +109,7 @@ python src/generate_data.py
 jupyter notebook notebooks/customer_analytics.ipynb
 ```
 
-## 📈 Key Features & Analysis
+## Key Features & Analysis
 
 ### 1. Exploratory Data Analysis (EDA)
 - Customer demographic distribution
@@ -143,7 +143,7 @@ Top predictors of churn:
 4. Website visits per month
 5. Total purchases
 
-## 💡 Key Insights
+##  Key Insights
 
 ### Churn Drivers
 - **Inactivity**: Customers inactive for 90+ days show 60%+ churn rate
@@ -156,7 +156,7 @@ Top predictors of churn:
 - Newsletter subscribers have 40% lower churn rates
 - Customers with 5+ purchases rarely churn (2% churn rate)
 
-## 🎯 Recommendations
+##  Recommendations
 
 ### Immediate Actions
 1. **Win-Back Campaign**: Target 300+ high-risk, high-value customers
@@ -180,7 +180,7 @@ The project generates comprehensive visualizations including:
 - Model performance metrics
 - Feature importance rankings
 
-## 🤝 Contributing
+##  Contributing
 
 This is a portfolio project, but suggestions and feedback are welcome!
 
